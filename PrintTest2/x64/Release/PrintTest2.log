@@ -1,0 +1,6 @@
+﻿  PrintTest2.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PrintTest2.vcxproj -> C:\workspace\VS2019\cpp\PrintTest2\x64\Release\PrintTest2.exe
